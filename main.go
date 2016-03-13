@@ -1,8 +1,8 @@
-package main
 
-import fmt
+package main;
 
-func main()
-{
+import "fmt"
+
+func main() {
 	fmt.Printf("Joda project\n")
 }
